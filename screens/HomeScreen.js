@@ -47,6 +47,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingTop: 0,
   },
+  customFontText: {
+    fontFamily: 'MyFont',
+    fontSize: 20,
+  },
   title: {
     fontSize: 55,
     //fontWeight: 'bold',
